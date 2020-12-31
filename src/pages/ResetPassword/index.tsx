@@ -1,4 +1,3 @@
-/* eslint-disable camelcase */
 import React, { useRef, useCallback } from 'react';
 import { FiLock } from 'react-icons/fi';
 import { FormHandles } from '@unform/core';
