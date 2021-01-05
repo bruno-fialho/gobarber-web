@@ -15,7 +15,9 @@
   <a href="#memo-licence">Licence</a>
 </p>
 
-<!-- <img alt="GoBarber Web" src=./src/assets/primeiro-projeto-react.gif /> -->
+![login-and-register](./src/assets/login-register.gif)
+
+![dashboard-and-profile](./src/assets/dashboard-profile.gif)
 
 ## :rocket: About the application
 

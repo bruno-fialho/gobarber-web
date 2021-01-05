@@ -6,7 +6,7 @@
 <img alt="GoStack" src=./src/assets/header-bootcamp.png />
 
 <h3 align="center">
-  GoBarber Web :construction:
+  GoBarber Web
 </h3>
 
 <p align="center">
@@ -15,7 +15,9 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<!-- <img alt="GoBarber Web" src=./src/assets/primeiro-projeto-react.gif /> -->
+![login-and-register](./src/assets/login-register.gif)
+
+![dashboard-and-profile](./src/assets/dashboard-profile.gif)
 
 ## :rocket: Sobre a aplicação
 
